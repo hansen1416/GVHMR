@@ -1,0 +1,7 @@
+name: gvhmr
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - python=3.10
+prefix: /home/hlz/anaconda3/envs/gvhmr
