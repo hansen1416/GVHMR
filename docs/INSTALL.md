@@ -3,7 +3,7 @@
 ## Environment
 
 ```bash
-git clone https://github.com/zju3dv/GVHMR
+git clone https://github.com/hansen1416/GVHMR
 cd GVHMR
 
 conda create -y -n gvhmr python=3.10

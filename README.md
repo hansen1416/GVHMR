@@ -75,3 +75,7 @@ We thank the authors of
 [WHAM](https://github.com/yohanshin/WHAM),
 [4D-Humans](https://github.com/shubham-goel/4D-Humans),
 and [ViTPose-Pytorch](https://github.com/gpastal24/ViTPose-Pytorch) for their great works, without which our project/code would not be possible.
+
+# Reference
+
+`python tools/demo/demo.py --video=docs/example_video/tennis.mp4 -s`
